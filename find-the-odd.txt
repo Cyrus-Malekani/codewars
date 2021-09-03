@@ -1,4 +1,4 @@
-;;<a href="https://www.codewars.com/kata/54da5a58ea159efa38000836"> Find the odd</a>
+<a href="https://www.codewars.com/kata/54da5a58ea159efa38000836"> Find the odd</a>
 
 ;;Given an array of integers, find the one that appears an odd number of times.
 
